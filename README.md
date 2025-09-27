@@ -1,4 +1,4 @@
-## Olá! Meu nome é Gabriel Mechi e atualmente estou cursando Ciências da Computação
+## Olá! Sou Gabriel Mechi, atualmente cursando Ciências da Computação
 
 - 🪐 Contato: gabrielmechi04@.com
 - 🚀Linkedin: www.linkedin.com/in/gabriel-mechi-b415b7261  
