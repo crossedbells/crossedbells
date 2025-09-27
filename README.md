@@ -1,8 +1,20 @@
-Hi! I mainly create this account to store my universty projects but if I start to work on anything personal I shall put it in here as well haha. 
+## Olá! Meu nome é Gabriel Mechi e atualmente estou cursando Ciências da Computação
 
-I'm still very new to programming as a whole so my stuff isnt of the best, but we are here to learn!
+- 🪐 Contato: gabrielmechi04@.com
+- 🚀Linkedin: www.linkedin.com/in/gabriel-mechi-b415b7261  
 
-<!---
-crossedbells/crossedbells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/gabrielmechi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmechi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<hr>
+
+#### - 💻 Linguagens  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Gabriel-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+##
