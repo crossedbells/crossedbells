@@ -19,8 +19,9 @@
 
 ## Melhores projetos:
 
-https://github.com/crossedbells/Pacman---Java
-https://github.com/crossedbells/Sistema-de-hotel-
-https://github.com/crossedbells/LIC---PUC
-https://github.com/crossedbells/Jogo-da-vida
-https://github.com/crossedbells/CalcJava
+- [Pacman — Java](https://github.com/crossedbells/Pacman---Java)  
+- [Sistema de Hotel](https://github.com/crossedbells/Sistema-de-hotel-)  
+- [LIC — PUC](https://github.com/crossedbells/LIC---PUC)  
+- [Jogo da Vida](https://github.com/crossedbells/Jogo-da-vida)  
+- [CalcJava](https://github.com/crossedbells/CalcJava)  
+
