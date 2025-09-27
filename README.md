@@ -4,7 +4,7 @@
 - 🚀Linkedin: www.linkedin.com/in/gabriel-mechi-b415b7261  
 
 <div align="center">
-  <a href="https://github.com/gabrielmechi">
+  <a href="https://github.com/crossedbells">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmechi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <hr>
