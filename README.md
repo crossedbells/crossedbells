@@ -20,3 +20,7 @@
 ## Melhores projetos:
 
 https://github.com/crossedbells/Pacman---Java
+https://github.com/crossedbells/Sistema-de-hotel-
+https://github.com/crossedbells/LIC---PUC
+https://github.com/crossedbells/Jogo-da-vida
+https://github.com/crossedbells/CalcJava
