@@ -21,7 +21,7 @@
 
 - [Pacman — Java](https://github.com/crossedbells/Pacman---Java)  
 - [Sistema de Hotel](https://github.com/crossedbells/Sistema-de-hotel-)  
-- [LIC — PUC](https://github.com/crossedbells/LIC---PUC)  
+- [Editor-Grafico-Java](https://github.com/crossedbells/Editor-grafico) 
 - [Jogo da Vida](https://github.com/crossedbells/Jogo-da-vida)  
 - [CalcJava](https://github.com/crossedbells/CalcJava)  
 
