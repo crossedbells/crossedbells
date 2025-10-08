@@ -31,7 +31,7 @@
 - [PlataformaAprendizado](https://github.com/enzoDante/PlataformaAprendizado)
 
 ## Contatos<br>
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/gabriel-mechi-b415b7261" target="_blank">
     <img 
       loading="lazy" 
