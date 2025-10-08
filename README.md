@@ -30,7 +30,7 @@
 - [Sistema CMS para DOOH](https://github.com/Ferri-js/CMS-pra-DOOH)
 - [PlataformaAprendizado](https://github.com/enzoDante/PlataformaAprendizado)
 
-## Contato<br>
+## Contatos<br>
 <div>
 <!-- Contatos -->
   <a href="www.linkedin.com/in/gabriel-mechi-b415b7261" target="_blank">
@@ -41,14 +41,12 @@
       width="90"
     >
 
-  <a href="mailto:gabrielmechi04@gmail.com" target="_blank">
+    <a href="mailto:gabrielmechi04@gmail.com" target="_blank">
     <img 
       loading="lazy" 
-      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email"
       width="90"
     >
   </a>
 
-  </a>
-</div>
