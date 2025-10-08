@@ -32,16 +32,17 @@
 
 ## Contatos<br>
 <div>
-<!-- Contatos -->
-  <a href="www.linkedin.com/in/gabriel-mechi-b415b7261" target="_blank">
+  <!-- Contatos -->
+  <a href="https://www.linkedin.com/in/gabriel-mechi-b415b7261" target="_blank">
     <img 
       loading="lazy" 
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn"
       width="90"
     >
+  </a>
 
-    <a href="mailto:gabrielmechi04@gmail.com" target="_blank">
+  <a href="mailto:gabrielmechi04@gmail.com" target="_blank">
     <img 
       loading="lazy" 
       src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
@@ -49,4 +50,8 @@
       width="90"
     >
   </a>
+</div>
+
+
+
 
