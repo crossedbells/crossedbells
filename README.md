@@ -28,6 +28,6 @@
 ## Em desenvolvimento:
 
 - [Sistema CMS para DOOH](https://github.com/Ferri-js/CMS-pra-DOOH)
-
+- [PlataformaAprendizado](https://github.com/enzoDante/PlataformaAprendizado)
 
 
