@@ -1,7 +1,7 @@
 ## Olá! Sou Gabriel Mechi, atualmente cursando Ciências da Computação
 
-- 🪐 Contato: gabrielmechi04@.com
-- 🚀Linkedin: www.linkedin.com/in/gabriel-mechi-b415b7261  
+<!-- - 🪐 Contato: gabrielmechi04@gmail.com
+- 🚀Linkedin: www.linkedin.com/in/gabriel-mechi-b415b7261 -->
 
 <div align="center">
   <a href="https://github.com/crossedbells">
@@ -30,4 +30,25 @@
 - [Sistema CMS para DOOH](https://github.com/Ferri-js/CMS-pra-DOOH)
 - [PlataformaAprendizado](https://github.com/enzoDante/PlataformaAprendizado)
 
+## Contato<br>
+<div>
+<!-- Contatos -->
+  <a href="www.linkedin.com/in/gabriel-mechi-b415b7261" target="_blank">
+    <img 
+      loading="lazy" 
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+      width="90"
+    >
 
+  <a href="mailto:gabrielmechi04@gmail.com" target="_blank">
+    <img 
+      loading="lazy" 
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email"
+      width="90"
+    >
+  </a>
+
+  </a>
+</div>
