@@ -31,8 +31,7 @@
 - [PlataformaAprendizado](https://github.com/enzoDante/PlataformaAprendizado)
 
 ## Contatos<br>
-<div>
-  <!-- Contatos -->
+<div align="center">
   <a href="https://www.linkedin.com/in/gabriel-mechi-b415b7261" target="_blank">
     <img 
       loading="lazy" 
@@ -45,7 +44,7 @@
   <a href="mailto:gabrielmechi04@gmail.com" target="_blank">
     <img 
       loading="lazy" 
-      src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email"
       width="90"
     >
