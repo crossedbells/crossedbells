@@ -30,6 +30,12 @@
 - [Sistema CMS para DOOH](https://github.com/Ferri-js/CMS-pra-DOOH)
 - [PlataformaAprendizado](https://github.com/enzoDante/PlataformaAprendizado)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crossedbells/crossedbells/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crossedbells/crossedbells/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/crossedbells/crossedbells/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Contatos<br>
 <div>
   <a href="https://www.linkedin.com/in/gabriel-mechi-b415b7261" target="_blank">
