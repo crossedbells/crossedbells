@@ -25,11 +25,10 @@
 - [Sistema de Hotel](https://github.com/crossedbells/Sistema-de-hotel-)  
 - [Editor-Grafico-Java](https://github.com/crossedbells/Editor-grafico) 
 - [Jogo da Vida](https://github.com/crossedbells/Jogo-da-vida)  
-- [CalcJava](https://github.com/crossedbells/CalcJava)  
+- [Sistema CMS para DOOH](https://github.com/Ferri-js/CMS-pra-DOOH)
 
 ## Em desenvolvimento:
 
-- [Sistema CMS para DOOH](https://github.com/Ferri-js/CMS-pra-DOOH)
 - [PlataformaAprendizado](https://github.com/enzoDante/PlataformaAprendizado)
 
 <picture>
