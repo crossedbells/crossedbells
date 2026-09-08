@@ -3,12 +3,6 @@
 <!-- - 🪐 Contato: gabrielmechi04@gmail.com
 - 🚀Linkedin: www.linkedin.com/in/gabriel-mechi-b415b7261 -->
 
-<div align="center">
-  <a href="https://github.com/crossedbells">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crossedbells&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<hr>
-
 #### - 💻 Linguagens  
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
