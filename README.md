@@ -16,7 +16,7 @@
 ## Melhores projetos:
 
 - [Pacman — Java](https://github.com/crossedbells/Pacman---Java)  
-- [Sistema de Hotel](https://github.com/crossedbells/Sistema-de-hotel-)  
+- [Compilador feito em Mini-Pascal](https://github.com/crossedbells/PUC-SP-Compiladores-Compiler)  
 - [Editor-Grafico-Java](https://github.com/crossedbells/Editor-grafico) 
 - [Jogo da Vida](https://github.com/crossedbells/Jogo-da-vida)  
 - [Sistema CMS para DOOH](https://github.com/Ferri-js/CMS-pra-DOOH)
